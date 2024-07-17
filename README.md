@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey,  Sumeet Here</h1>
+<h1 align="center">Hey, i'm Sumeet Here</h1>
 <h3 align="center">a designer & developer just for fun </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeethibare&label=Profile%20views&color=0e75b6&style=flat" alt="sumeethibare" /> </p>
