@@ -1,18 +1,18 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumeethibare&label=Profile%20views&color=0e75b6&style=flat" alt="sumeethibare" /> </p>
-<h1 align="left">Namaste, i'm Sumeet</h1>
-<h3 align="left">a designer & developer just for fun </h3>
 
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sumeethibare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayitmyth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeethibare) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sumeethibare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theforeverfella) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sumeethibare&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumeethibare&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeethibare&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeethibare" alt="sumeethibare" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sumeethibare&theme=neon&no-frame=true&no-bg=false&margin-w=4)
 
-- 👨‍💻 want to see my portfolio,  say! [hellosumeet](hellosumeet.vercel.app)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sumeethibare&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
-- 📝 my articles on [internetdraft](internetdraft.blogspot.com)
+---
+[![](https://visitcount.itsvg.in/api?id=sumeethibare&icon=9&color=5)](https://visitcount.itsvg.in)
 
-- 📫 contact through email theforeverfella@gmail.com
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeethibare&show_icons=true&locale=en&layout=compact" alt="sumeethibare" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeethibare&show_icons=true&locale=en" alt="sumeethibare" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeethibare&" alt="sumeethibare" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
